@@ -102,7 +102,7 @@ projeto-pizzaria/
 
 ### Dashboard 
 
-![Dashbaord](./img/pagina-inicial.png)
+![Dashbaord](./img/dashboard.png)
 
 ---
 
